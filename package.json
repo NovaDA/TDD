@@ -1,0 +1,18 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "npm --version\r node --versio",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "is-sorted": "^1.0.5"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
